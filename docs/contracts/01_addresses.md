@@ -3,7 +3,7 @@
 ## Multisigs
 | Contract  | Chain     | Address                                                                                                                            |
 | --------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| DAO       | Ethereum  | [`0x245cc372C84B3645Bf0Ffe6538620B04a217988B`](https://etherscan.io/address/0x245cc372C84B3645Bf0Ffe6538620B04a217988B)            |
+| Protocol Treasury       | Ethereum  | [`0x245cc372C84B3645Bf0Ffe6538620B04a217988B`](https://etherscan.io/address/0x245cc372C84B3645Bf0Ffe6538620B04a217988B)            |
 |           | Arbitrum  | [`0x012BBf0481b97170577745D2167ee14f63E2aD4C`](https://arbiscan.io/address/0x012BBf0481b97170577745D2167ee14f63E2aD4C)             |
 |           | Optimism  | [`0x559a14a2219Ae81f9a9f857CF31407de2b07F36c`](https://optimistic.etherscan.io/address/0x559a14a2219Ae81f9a9f857CF31407de2b07F36c) |
 |           | Polygon   | [`0xe06efA3D9Ee6923240ee1195A16ddd96B5CcE8F7`](https://polygonscan.com/address/0xe06efA3D9Ee6923240ee1195A16ddd96B5CcE8F7)         |
@@ -13,7 +13,7 @@
 | Guardian  | Goerli    | [`0x84C0C005cF574D0e5C602EA7b366aE9c707381E0`](https://goerli.etherscan.io/address/0x84C0C005cF574D0e5C602EA7b366aE9c707381E0)     |
 | Emergency | Mainnet   | [`0xa8A6ff2606b24F61AFA986381D8991DFcCCd2D55`](https://etherscan.io/address/0xa8A6ff2606b24F61AFA986381D8991DFcCCd2D55)     |
 |           | Goerli    | [`0x3dC18017cf8d8F4219dB7A8B93315fEC2d15B8a7`](https://goerli.etherscan.io/address/0x3dC18017cf8d8F4219dB7A8B93315fEC2d15B8a7)     |
-
+|DAO Treasury| Ethereum    | [`0xF65A665D650B5De224F46D729e2bD0885EeA9dA5`](https://etherscan.io/address/0xF65A665D650B5De224F46D729e2bD0885EeA9dA5)     |
 
 
 
